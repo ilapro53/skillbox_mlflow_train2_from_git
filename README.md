@@ -8,4 +8,4 @@
 ## Запуск 
 
 1. Перейти в директорию, в которую клонирован этот репозиторий
-2. `python build_kinopoisk.py`
+2. `python train_kinopoisk_local.py`
