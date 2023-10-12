@@ -1,0 +1,11 @@
+
+name: kinopoisk_project
+
+docker_env:
+  image: kinopoisk:1.0.0
+
+entry_points:
+  main:
+    parameters:
+      data_file: {type: str, default: "datasets/kinopoisk_train.csv"}
+    command: "python train.py"

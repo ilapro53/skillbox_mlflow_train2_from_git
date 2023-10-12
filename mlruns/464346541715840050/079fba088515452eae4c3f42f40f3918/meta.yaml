@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/o/ilya/Skillbox/5SM/ML-intro/skillbox_mlflow_server2/mlruns/464346541715840050/079fba088515452eae4c3f42f40f3918/artifacts
+end_time: 1697141679597
+entry_point_name: ''
+experiment_id: '464346541715840050'
+lifecycle_stage: active
+run_id: 079fba088515452eae4c3f42f40f3918
+run_name: debonair-moth-564
+run_uuid: 079fba088515452eae4c3f42f40f3918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697141596378
+status: 4
+tags: []
+user_id: root

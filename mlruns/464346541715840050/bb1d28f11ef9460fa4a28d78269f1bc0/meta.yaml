@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/o/ilya/Skillbox/5SM/ML-intro/skillbox_mlflow_server2/mlruns/464346541715840050/bb1d28f11ef9460fa4a28d78269f1bc0/artifacts
+end_time: 1697132810897
+entry_point_name: ''
+experiment_id: '464346541715840050'
+lifecycle_stage: active
+run_id: bb1d28f11ef9460fa4a28d78269f1bc0
+run_name: dashing-lark-378
+run_uuid: bb1d28f11ef9460fa4a28d78269f1bc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697132790718
+status: 4
+tags: []
+user_id: root
